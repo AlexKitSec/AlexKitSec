@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alex @AlexKitSec
+- 👀 Boss in cybersecurity, mobile apps, web3
+- 🌱 Casually exploring Kotlin, Java, Rails atm
+- 📫 Discord FlyingDrone#1766
